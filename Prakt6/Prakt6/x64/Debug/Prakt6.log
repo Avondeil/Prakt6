@@ -1,0 +1,8 @@
+﻿  Prakt6.cpp
+C:\Users\st310-04\Documents\Malugin\Prakt6\Prakt6.cpp(16,5): warning C4273: puts: несовместимое связывание dll
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(358,26):
+  см. предыдущее определение "puts"
+  
+C:\Users\st310-04\Documents\Malugin\Prakt6\Prakt6.cpp(34,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\st310-04\Documents\Malugin\Prakt6\x64\Debug\Prakt6.lib и объект C:\Users\st310-04\Documents\Malugin\Prakt6\x64\Debug\Prakt6.exp
+  Prakt6.vcxproj -> C:\Users\st310-04\Documents\Malugin\Prakt6\x64\Debug\Prakt6.exe
